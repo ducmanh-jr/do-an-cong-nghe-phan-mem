@@ -1,4 +1,4 @@
 # App Quản Lý Nguyên Liệu & Kho Hàng
 
-Ứng dụng hỗ trợ quản lý nguyên liệu, nhập – xuất – tồn kho hiệu quả.  
-Tích hợp báo cáo thông minh giúp theo dõi tồn kho và hỗ trợ ra quyết định nhanh chóng.
+Ứng dụng quản lý nhập – xuất – tồn kho, tích hợp báo cáo thông minh hỗ trợ theo dõi và ra quyết định.  
+Khi tải về nếu Windows cảnh báo, hãy chọn **Tìm hiểu thêm (More info)** → **Vẫn chạy (Run anyway)** để khởi động ứng dụng.
