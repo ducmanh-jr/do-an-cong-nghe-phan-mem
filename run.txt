@@ -1,0 +1,1 @@
+$env:DATABASE_URL="postgresql://neondb_owner:npg_fEjQg7Wqc1DK@ep-twilight-mouse-a41z2awq-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require"; npm run dev
